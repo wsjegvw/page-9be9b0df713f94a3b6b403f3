@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "ac4b6443b27e20d26d75b9f3",
+  "owner": "wsjegvw",
+  "repo": "page-9be9b0df713f94a3b6b403f3",
+  "title": "sgl",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9be9b0df713f94a3b6b403f3",
+      "a": "sgl",
+      "b": "",
+      "entity": "sgl",
+      "brand": "sgl",
+      "separator": "",
+      "path": "index.html",
+      "hash": "54d0c94e698dce63f7b2a787e9ae4f66a7963c9c3b33111616431f6106dfd309",
+      "content": {
+        "keyword1": "sgl",
+        "keyword2": "",
+        "primary_entity": "sgl",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "sgl 是面向多端用户的机场订阅与 VPN 梯子加速服务官网，介绍套餐、节点使用场景、客户端选择与导入步骤，并提供官方下载指引。",
+          "AI_DESCRIPTION": "sgl 是面向多端用户的机场订阅与 VPN 梯子加速服务官网，介绍套餐、节点使用场景、客户端选择与导入步骤，并提供官方下载指引。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{font-family:system-ui,-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif;background:#F7F4EC;color:#1A211C;font-size:17px;line-height:1.75}a{color:#1E4D36;text-decoration:underline}header{background:#1E4D36;color:#F7F4EC;padding:14px 16px}header .brand{font-weight:700;font-size:1.2rem}nav{display:flex;flex-wrap:wrap;gap:10px 14px;margin-top:8px}nav a{color:#E7F0E8;text-decoration:none;font-size:0.95rem}main{max-width:920px;margin:0 auto;padding:20px 16px 40px}h1{font-size:1.8rem;line-height:1.35;color:#163528;margin:8px 0 16px}h2{font-size:1.35rem;color:#1E4D36;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #C9D8CE}h3{font-size:1.08rem;color:#245C3B;margin:18px 0 8px}p,li{word-wrap:break-word}section{margin-bottom:8px}.card{background:#FFFEFA;border:1px solid #D7E3D8;border-radius:10px;padding:16px;margin:12px 0}.step{background:#FFFEFA;border-left:5px solid #2F6F4A;padding:14px 16px;margin:10px 0}.step b{display:block;color:#1E4D36;margin-bottom:4px}.plans{display:flex;flex-direction:column;gap:12px}.plan{background:#FFFEFA;border:1px solid #D7E3D8;border-radius:10px;padding:16px}.plan.featured{border:2px solid #2F6F4A;background:#EEF6F0}.badge{display:inline-block;background:#1E4D36;color:#F7F4EC;font-size:0.78rem;padding:2px 8px;border-radius:999px;margin-left:6px}.price{font-size:1.35rem;font-weight:700;color:#1E4D36}.annual{color:#4A5A50;font-size:0.95rem}.clients{display:flex;flex-direction:column;gap:8px}.client a{display:block;background:#1E4D36;color:#F7F4EC;text-decoration:none;padding:12px 14px;border-radius:8px;font-weight:600}.client a span{display:block;font-weight:400;font-size:0.9rem;color:#D7E8DC;margin-top:2px}details{background:#FFFEFA;border:1px solid #D7E3D8;border-radius:8px;padding:10px 14px;margin:8px 0}summary{cursor:pointer;font-weight:650;color:#163528}details p{margin:8px 0 4px;color:#2A332C}.muted{color:#4A5A50}.ads,.links{background:#EEF6F0;border:1px dashed #A8C2B0;border-radius:10px;padding:14px;margin:16px 0}.ads a,.links a{margin-right:12px;display:inline-block;margin-bottom:6px}footer{background:#163528;color:#E7F0E8;padding:20px 16px;font-size:0.92rem}footer a{color:#CDE3D4}footer .inner{max-width:920px;margin:0 auto}ul{padding-left:1.2em}</style><header><div class=\"brand\">sgl 官方网站</div><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">使用场景</a><a href=\"#steps\">操作说明</a><a href=\"#clients\">客户端</a><a href=\"#plans\">套餐</a><a href=\"#faq\">常见问题</a><a href=\"#download\">官网下载</a><a href=\"#links\">友链</a></nav></header><main><h1>sgl 官方网站：机场订阅与 VPN 加速客户端</h1><section id=\"intro\"><h2>品牌简介</h2><p>sgl 面向需要稳定跨境连通的个人与团队，提供机场订阅与 VPN 梯子网络加速能力。用户可在本站了解套餐流量、设备台数、线路类型，并按设备选择客户端完成订阅导入。sgl 强调可阅读的操作路径：先选定套餐拿到订阅，再下载对应客户端，最后按节点用途连接，而不是把配置散落在难以核对的说明里。</p><p>节点池覆盖常用地区线路，包含普通线路与面向游戏延迟优化的 IPLC 专线（旗舰版及以上）。流媒体解锁按套餐分层：基础版对应基础流媒体，旗舰版与团队版提供全节点原生流媒体解锁。sgl 不把评分或匿名评论当作依据，套餐内容以本页列出的流量、设备数与线路说明为准。</p><p class=\"muted\">官方身份核验请认准 sgl 官网域名与本页套餐名称。客户端安装包与订阅导入说明集中在「客户端选择」与「官网下载」两节，避免从来源不明的页面获取配置。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>远程办公与资料访问</h3><p>跨境会议、云文档与代码仓库在高峰时段容易出现抖动。sgl 将办公访问放在稳定性优先的节点上，基础版即可覆盖日常网页与邮件，旗舰版增加设备数与流量余量，适合同时开电脑与手机。</p><h3>流媒体与内容站点</h3><p>需要观看或检索海外媒体库时，请按套餐选择已标注解锁能力的线路。基础版解锁基础流媒体；旗舰版与团队版强调全节点原生解锁，减少因线路切换导致的地区校验失败。</p><h3>游戏与实时对战</h3><p>旗舰版包含 IPLC 专线游戏加速优化，适合对延迟更敏感的对局。团队版在此基础上提供 VIP 专属高带宽节点，便于多人同时在线而不互相挤占套餐内设备配额。</p><h3>学习研究与多设备同步</h3><p>课程平台、文献库与翻译工具可走普通或专线节点。支持 3 / 5 / 20 台设备同时在线分别对应三档套餐，手机、电脑与平板可共用同一订阅，只需在各客户端导入一次。</p></section><section id=\"steps\"><h2>操作说明（纵向步骤）</h2><p>按下面五步完成从开通到连接，无需跳过客户端选择。每一步对应本页锚点，可随时返回核对。</p><div class=\"step\"><b>步骤 1 · 确认需求并选择套餐</b>对照每月流量、同时在线设备数、是否需要 IPLC 与原生流媒体，在基础版、旗舰版、团队版中择一。年付价格已在套餐卡片标明。</div><div class=\"step\"><b>步骤 2 · 在官网获取订阅</b>开通后进入用户中心复制订阅链接。请只在 sgl 官网生成订阅，不要把链接发到公开聊天以免被滥用导致流量异常。</div><div class=\"step\"><b>步骤 3 · 选择并下载客户端</b>这是本站重点：先确认系统（Windows、macOS、Android、iOS、Linux），再选协议兼容的客户端（Clash 系、Shadowrocket、Surge 等）。下载入口见下方「客户端选择」。</div><div class=\"step\"><b>步骤 4 · 导入订阅并更新节点</b>打开客户端的订阅/配置页，粘贴链接并更新。成功后应看到地区分组，而不是空白配置。若更新失败，检查是否复制了完整 URL、系统时间是否准确。</div><div class=\"step\"><b>步骤 5 · 按场景选择节点并连接</b>浏览与办公选普通线路；流媒体选解锁组；游戏选 IPLC 组。连接后用目标站点验证，再把该节点设为常用。流量将按套餐月度额度累计。</div></section><section id=\"clients\"><h2>客户端选择（推荐先看）</h2><p>sgl 订阅遵循常见机场配置格式，可在主流代理客户端中导入。请按设备只装一个主力客户端，避免多个内核同时占用系统代理。以下入口均为页面内下载说明锚点，便于对照安装要点。</p><div class=\"clients\"><div class=\"client\"><a href=\"#win\">Windows 桌面端<span>适合 Clash 内核图形客户端，导入订阅后开启系统代理</span></a></div><div class=\"client\"><a href=\"#mac\">macOS 桌面端<span>可使用 Clash 系或 Surge，注意授权网络扩展</span></a></div><div class=\"client\"><a href=\"#android\">Android 客户端<span>推荐 Clash Meta 系应用，从官网说明的来源安装</span></a></div><div class=\"client\"><a href=\"#ios\">iOS / iPadOS 客户端<span>Shadowrocket、Stash、Quantumult X 等从商店获取后导入</span></a></div><div class=\"client\"><a href=\"#linux\">Linux 与命令行<span>Clash / Mihomo 配置文件导入，适合长期在线的网关</span></a></div></div><h3 id=\"win\">Windows</h3><p>安装后打开订阅栏粘贴 sgl 订阅地址，更新节点，模式选规则（Rule）。浏览器无需再装额外代理插件。若公司软件冲突，可改为仅对浏览器开启。</p><h3 id=\"mac\">macOS</h3><p>首次启动需在系统设置中允许网络扩展。导入方式与 Windows 相同。若使用 Surge，将订阅作为托管配置添加即可。</p><h3 id=\"android\">Android</h3><p>安装 Clash Meta 兼容客户端，添加配置 URL，开启后可按应用分流。建议关闭省电限制，以免后台断开。</p><h3 id=\"ios\">iOS / iPadOS</h3><p>在商店安装常用客户端后，通过「从 URL 下载配置」粘贴订阅。VPN 配置描述文件需要系统授权一次。团队多台 iPhone 共用团队版设备配额。</p><h3 id=\"linux\">Linux</h3><p>将订阅转为本地配置后由 systemd 或容器常驻。网关模式可供家中多设备共享，但会占用套餐的「同时在线设备」计数，请预留额度。</p></section><section id=\"plans\"><h2>套餐与流量</h2><p>以下为 sgl 现行公开套餐。旗舰版适合大多数需要流媒体与游戏线路的用户；团队版面向多设备与定制路由。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版<span class=\"badge\">推荐</span></h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"nodes\"><h2>线路与加速说明</h2><p>sgl 节点按用途分组：常规浏览、流媒体解锁、IPLC 游戏优化、以及团队版 VIP 高带宽。同一订阅下切换分组即可，无需更换客户端。网络加速表现受本地宽带、运营商路由与目标站距离影响，请以实际连接测试为准，本页不罗列排行或分数。</p><p>若某条线路超时，先更新订阅再换同地区备用节点。持续失败时通过旗舰版或团队版工单通道反馈节点名称与客户端日志时间戳，便于对照维护窗口。</p></section><section id=\"download\"><h2>官网下载与订阅入口</h2><p>客户端安装包与订阅管理均从 sgl 官网进入。请按操作系统打开上一节对应说明，再回到用户中心复制订阅。本页下载链为站内指引，不跳转到不明第三方。</p><p><a href=\"#clients\">前往客户端选择</a>　<a href=\"#plans\">查看套餐</a>　<a href=\"#steps\">返回操作步骤</a></p><div class=\"ads\"><h2>合作推荐</h2><p>广告位：sgl 官方下载镜像说明、企业定制路由咨询、年付套餐提醒。访问 <a href=\"#\">镜像下载指引</a> 与 <a href=\"#plans\">套餐对照</a> 获取当前信息。</p></div></section><section id=\"faq\"><h2>常见问题</h2><details><summary>sgl 是什么，和普通 VPN 有何不同？</summary><p>sgl 以机场订阅方式分发节点，一次导入可在多客户端使用，并按套餐提供流量与设备上限。相对单一出口的 VPN 应用，sgl 更强调节点分组、流媒体解锁分层以及 IPLC 游戏线路，适合需要自己选择客户端的用户。</p></details><details><summary>如何完成客户端下载并导入机场订阅？</summary><p>先在官网开通套餐并复制订阅链接，再按 Windows、macOS、Android、iOS 或 Linux 选择客户端安装。打开客户端订阅页粘贴链接并更新，选择规则模式后连接。详细顺序见「操作说明」五步。</p></details><details><summary>基础版、旗舰版和团队版怎样选？</summary><p>轻度浏览、三台设备以内选基础版。需要原生流媒体、五台设备和 IPLC 游戏优化选旗舰版。二十台设备、千 GB 流量、VIP 带宽与定制路由选团队版。年付金额已在各卡片标明。</p></details><details><summary>支持哪些设备同时在线？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台。电脑、手机、平板、路由器均计入同时在线。路由器共享会占用配额，请按家庭或工作室规模预留。</p></details><details><summary>连接后无法访问或流媒体仍校验失败怎么办？</summary><p>更新订阅、核对系统时间、更换同分组其他节点，并确认套餐是否包含对应解锁。基础版仅覆盖基础流媒体。仍异常时记录节点名与时间，通过工单提交（旗舰版为 7x24 优先）。</p></details><details><summary>流量用尽或需要更换客户端内核可以吗？</summary><p>月度流量用尽后需等待重置或升级套餐。客户端可随时更换，只要新软件支持同一订阅格式。更换前关闭旧客户端的系统代理，避免双开冲突。</p></details></section><section id=\"links\" class=\"links\"><h2>友情链接与站点地图</h2><p><a href=\"#intro\">品牌简介</a><a href=\"#clients\">客户端下载</a><a href=\"#plans\">套餐价格</a><a href=\"#faq\">FAQ</a><a href=\"#\">使用文档</a><a href=\"#\">状态公告</a><a href=\"#\">合作咨询</a></p><p class=\"muted\">站点地图索引与栏目入口与页头导航一致，便于收录「sgl 官网、客户端下载、机场订阅」等主题页面。</p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"inner\"><p>sgl 官方网站 · 机场订阅与 VPN 梯子网络加速 · 客户端官网下载</p><p><a href=\"#\">使用条款</a> · <a href=\"#\">隐私说明</a> · <a href=\"#intro\">回到简介</a></p><p>内容仅描述本站套餐与操作路径，线路体验因网络环境而异。</p></div></footer>",
+          "hash": "fac586c86a97b73772b80cc40ca309b4d767006e09b7b2a84298b14ed3f4ef8c",
+          "seo": {
+            "title": "sgl官网：VPN梯子网络加速与机场订阅客户端下载",
+            "keywords": "sgl,sgl机场,sgl VPN,VPN梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC,Clash",
+            "description": "sgl 是面向多端用户的机场订阅与 VPN 梯子加速服务官网，介绍套餐、节点使用场景、客户端选择与导入步骤，并提供官方下载指引。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "dandewl.cn",
+    "host": "p-171ff12bf2.dandewl.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "dandewl.cn",
+      "url": "https://dandewl.cn/",
+      "label": "自由鲸(freewhale)",
+      "apex": "dandewl.cn",
+      "kind": null,
+      "identity": "qujuvbnxk/page-4c277d37a41fe0fea09f7e47"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "4302e65f3a63db5d840d8d6a30da99a745366d6ca89cd04014f26a299f6336be",
+    "sitemap.xml": "d0a4778e74106450db99addb3912d3a6fef25d20d75ae4d45c8c9b634d98039b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0f2f9171ffd9d988b665629372149ef661635edf599c80db49a52964f9d029ab",
+    "robots.txt": "71a2b7857cfb174c84598440e4f057050e25aaaa3efbe2dd2828281b0df38689",
+    "2e99e1c2d17b37a2ff47de1bd576a69d.txt": "06ea5c092e6b972ab58ba6abfe31f9f48a2816f021fe953688efa80e2b030a3f"
+  },
+  "revision": "0ec36e2f4b5f61b5f665692cb283ed1f49bce6a1326f67144511e035b2c29739"
+}
